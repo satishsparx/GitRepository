@@ -6,3 +6,5 @@ jk;adfs;hkerqw
 
 
 learnin git
+
+learnin squashing
